@@ -23,6 +23,7 @@ public class PointsController : MonoBehaviourPunCallbacks
         photonView.RPC(nameof(CambiarValorEnRed), RpcTarget.OthersBuffered, value);
     }
 
+    [PunRPC]
     void CambiarValorEnRed(string variable)
     {
         _redVariableText.text = variable ; //cambiamos el texto del otro jugador

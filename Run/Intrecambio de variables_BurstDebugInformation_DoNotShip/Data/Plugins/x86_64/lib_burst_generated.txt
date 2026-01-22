@@ -1,4 +1,4 @@
-Library: C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+Library: C:\Users\Videojuegos\Documents\Repositorios\Intercambio-de-variables\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-16
 --target=X64_SSE2
@@ -57,11 +57,10 @@ Library: C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Temp\BurstOut
 --assembly-defines=websocket-sharp;
 --linker-options=PdbAltPath="Intrecambio de variables_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Temp\Burst
---debug=Full
+--temp-folder=C:\Users\Videojuegos\Documents\Repositorios\Intercambio-de-variables\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2023.2.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Library\Burst
---output=C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\Videojuegos\Documents\Repositorios\Intercambio-de-variables\Library\Burst
+--output=C:\Users\Videojuegos\Documents\Repositorios\Intercambio-de-variables\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -158,11 +157,10 @@ Library: C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Temp\BurstOut
 --assembly-defines=websocket-sharp;
 --linker-options=PdbAltPath="Intrecambio de variables_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Temp\Burst
---debug=Full
+--temp-folder=C:\Users\Videojuegos\Documents\Repositorios\Intercambio-de-variables\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2023.2.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Library\Burst
---output=C:\Users\PcVIP\Desktop\Proyectos\Intercambio-de-variables\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\Videojuegos\Documents\Repositorios\Intercambio-de-variables\Library\Burst
+--output=C:\Users\Videojuegos\Documents\Repositorios\Intercambio-de-variables\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
